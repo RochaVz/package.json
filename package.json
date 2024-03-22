@@ -1,8 +1,12 @@
 {
 	"author": "Carlos Rocha",
 	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp"],
+	"version": "1.2.0",
+	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "MAJOR.MINOR.PATCH",
+		"@freecodecamp/example": "1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
