@@ -5,8 +5,8 @@
 	"version": "1.2.0",
 	"license": "MIT",
 	"dependencies": {
-		"package-name": "MAJOR.MINOR.PATCH",
-		"@freecodecamp/example": "1.2.13"
+		"MAJOR.MINOR.PATCH":
+		 "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
